@@ -21,9 +21,10 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
    ![scientist](img/scientist.png)
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+5. Together, they discovered a treasure chest under a giant tree.
 
+   ![treasure](img/treasure_large.png)
+   
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
