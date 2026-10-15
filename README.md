@@ -8,6 +8,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 ## Our Wonderful Story
 
 1. Once upon a time, there was a beautiful castle on a hill.
+
    ![castle](img/castle.png)
 
 2. A young princess lived there and dreamed of exploring the world.
