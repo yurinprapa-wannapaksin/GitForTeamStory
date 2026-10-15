@@ -25,7 +25,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
    ![treasure](img/treasure_large.png)
    
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. Inside the chest, they found a map leading to a secret island.
+
+   ![map](img/map.png)
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
