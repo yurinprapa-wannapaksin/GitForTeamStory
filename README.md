@@ -29,7 +29,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
    ![map](img/map.png)
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+7. They sailed across the ocean but got caught in a terrible storm.
 
 8. The cat was supposed to talk here, but the line is missing.  
 
