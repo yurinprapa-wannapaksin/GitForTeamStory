@@ -33,6 +33,8 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 8. The cat was supposed to talk here, but the line is missing.  
 
+   ![cat](img/cat.png)
+
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
 
