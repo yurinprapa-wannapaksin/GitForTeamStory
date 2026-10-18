@@ -37,4 +37,4 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 9. The princess and her friends returned to the castle with the treasure.
 
-10. The ending… well, we don’t really have one. Please fix this.
+10. In the end, they learned that friendship and adventure were more valuable than gold.
