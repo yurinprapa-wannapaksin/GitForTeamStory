@@ -35,7 +35,6 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
    ![treasure_open](img/treasure_open.png)
 
-9. In the forest, the detective discovered… something.  
-   (What did they find?)  
+9. The princess and her friends returned to the castle with the treasure.
 
 10. The ending… well, we don’t really have one. Please fix this.
