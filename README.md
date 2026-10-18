@@ -31,9 +31,9 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 7. They sailed across the ocean but got caught in a terrible storm.
 
-8. The cat was supposed to talk here, but the line is missing.  
+8. On the island, they discovered an ancient temple filled with treasure
 
-   ![cat](img/cat.png)
+   ![treasure_open](img/treasure_open.png)
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
